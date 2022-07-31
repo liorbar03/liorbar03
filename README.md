@@ -1,4 +1,6 @@
-<h1 align="center">Hi , I'm Lior Bar</h1>
+<div align="center">
+  <img src="https://i.ibb.co/tb2CSMn/bg.png"  />
+</div>
 
 ###
 
@@ -51,9 +53,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="31" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="31" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="31" alt="stackoverflow logo"  />
+  <a href="https://www.google.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="31" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.google.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="31" alt="facebook logo"  />
+  </a>
+  <a href="https://www.google.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="31" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
