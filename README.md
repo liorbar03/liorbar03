@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ A software engineering passionate student at Technion - Israel Institute of Technology.<br>💪🏼 Also working on AI, data security and software development projects using C and python.<br>📚 Learning everything about new technologies and interesting tools.<br>🎯 Future Goals: learning more, never stop creating new ideas and have fun!</p>
+<p align="left">✨ I'm a software engineering passionate student at Technion - Israel Institute of Technology.<br>💪🏼 Also working on AI, data security and software development projects using C, C++ and python.<br>📚 Learning everything about new technologies and interesting tools.<br>🎯 Future Goals: learning more, never stop creating new ideas and having fun!</p>
 
 ###
 
