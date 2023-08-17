@@ -8,22 +8,28 @@
 
 ###
 
+<style>
+  td {
+    padding-top: 5px !important;border:0px !important;vertical-align: top !important;
+  }
+</style>
+
 <table>
   <tr>
-    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">🎓 </td>
-    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">Professional software engineer, Technion graduate.</td>
+    <td>🎓</td>
+    <td>Professional software engineer, Technion graduate.</td>
   </tr>
   <tr>
-    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">🔎 </td>
-    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">Acquiring comprehensive knowledge and skills in developing end-to-end applications, including working with databases, servers, clients, APIs integration, and mobile compatibility, utilizing the latest and most relevant industry technologies.</td>
+    <td>🔎</td>
+    <td>Acquiring comprehensive knowledge and skills in developing end-to-end applications, including working with databases, servers, clients, APIs integration, and mobile compatibility, utilizing the latest and most relevant industry technologies.</td>
   </tr>
   <tr>
-    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">✨ </td>
-    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">Good familiarity with Python, C, C++, SQL, Flask, JS, HTML, CSS.</td>
+    <td>✨</td>
+    <td>Good familiarity with Python, C, C++, SQL, Flask, JS, HTML, CSS.</td>
   </tr>
   <tr>
-    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">💪🏼 </td>
-    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">Strong problem-solving skills, fast learner, great team player and excited about learning new technologies!</td>
+    <td>💪🏼</td>
+    <td>Strong problem-solving skills, fast learner, great team player and excited about learning new technologies!</td>
   </tr>
 </table>
 
