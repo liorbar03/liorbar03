@@ -10,20 +10,20 @@
 
 <table>
   <tr>
-    <td style="padding-top: 5px;border:0px;vertical-align: top;">🎓 </td>
-    <td style="padding-top: 5px;border:0px;vertical-align: top;">Professional software engineer, Technion graduate.</td>
+    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">🎓 </td>
+    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">Professional software engineer, Technion graduate.</td>
   </tr>
   <tr>
-    <td style="padding-top: 5px;border:0px;vertical-align: top;">🔎 </td>
-    <td style="padding-top: 5px;border:0px;vertical-align: top;">Acquiring comprehensive knowledge and skills in developing end-to-end applications, including working with databases, servers, clients, APIs integration, and mobile compatibility, utilizing the latest and most relevant industry technologies.</td>
+    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">🔎 </td>
+    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">Acquiring comprehensive knowledge and skills in developing end-to-end applications, including working with databases, servers, clients, APIs integration, and mobile compatibility, utilizing the latest and most relevant industry technologies.</td>
   </tr>
   <tr>
-    <td style="padding-top: 5px;border:0px;vertical-align: top;">✨ </td>
-    <td style="padding-top: 5px;border:0px;vertical-align: top;">Good familiarity with Python, C, C++, SQL, Flask, JS, HTML, CSS.</td>
+    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">✨ </td>
+    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">Good familiarity with Python, C, C++, SQL, Flask, JS, HTML, CSS.</td>
   </tr>
   <tr>
-    <td style="padding-top: 5px;border:0px;vertical-align: top;">💪🏼 </td>
-    <td style="padding-top: 5px;border:0px;vertical-align: top;">Strong problem-solving skills, fast learner, great team player and excited about learning new technologies!</td>
+    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">💪🏼 </td>
+    <td style="padding-top: 5px !important;border:0px !important;vertical-align: top !important;">Strong problem-solving skills, fast learner, great team player and excited about learning new technologies!</td>
   </tr>
 </table>
 
