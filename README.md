@@ -8,12 +8,6 @@
 
 ###
 
-<style>
-  td {
-    padding-top: 5px !important;border:0px !important;vertical-align: top !important;
-  }
-</style>
-
 <table>
   <tr>
     <td>🎓</td>
