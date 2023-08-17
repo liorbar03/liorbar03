@@ -27,8 +27,6 @@
   </tr>
 </table>
 
-<p align="left">🎓 Professional software engineer, Technion graduate.<br>🔎 Acquiring comprehensive knowledge and skills in developing end-to-end applications, including working with databases, servers, clients, APIs integration, and mobile compatibility, utilizing the latest and most relevant industry technologies.<br>✨ Good familiarity with Python, C, C++, SQL, Flask, JS, HTML, CSS.<br>💪🏼 Strong problem-solving skills, fast learner, great team player and excited about learning new technologies!</p>
-
 ###
 
 <h2 align="left">🛠️ My Skills</h2>
